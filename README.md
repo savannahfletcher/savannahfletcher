@@ -19,4 +19,9 @@ Hello friends! I'm Savannah!
 <a />
 
 ## <img align="left" src="/images/cherry_blossom.png" width="40px"> Top projects
-- 
+- **ChompSci**: TypeScript w/ React | [Github Link](https://github.com/savannahfletcher/ChompSci)
+  - A web-based application designed to bring the UF Computer Science community together by promoting and organizing events and opportunities, as well as encouraging CS students to connect more with one another. As a front-end developer for this team, I contributed to the login form, opportunities page (message posting), and "About Us" page.
+- **PressPlay**: C++ w/ SFML | [Github Link](https://github.com/savannahfletcher/PressPlay)
+  - This program uses a player's Steam ID (a popular video game storefront) to determine their most played video game and recommend the player three games based on their favorite. Using two different data structures to store and call the video game data, this project also serves as an experiment to compare time complexity (in the form of runtime in ms). For this team project, I handled all frontend development.
+- **Compiler Project**: Java, JUnit | Private Repo per University Policy
+  - Developed a hand-written compiler in Java with thorough documentation, testing, and semantic analysis. Stages built: Lexer, Parser, Abstract Syntax Tree visitation (type-checking and code generation).
