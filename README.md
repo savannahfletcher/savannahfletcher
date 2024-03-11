@@ -1,5 +1,7 @@
 ### Hello friends! I'm Savannah! 
 
+![Savannah's Avatar](/images/savannahAvatar.png)
+
 ## Get to know me!
 - I am a third year undergraduate student pursuing a computer science major 💻, astronomy minor 💫, and ai certificate 🤖 at the university of florida!
 - Strongest languages: C++ and TypeScript
