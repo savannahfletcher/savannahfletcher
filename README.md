@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello friends! I'm Savannah! 
 
-<!--
-**savannahfletcher/savannahfletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Get to know me!
+- I am a third year undergraduate student pursuing a computer science major 💻, astronomy minor 💫, and ai certificate 🤖 at the university of florida!
+- Strongest languages: C++ and TypeScript
+- I am currently learning operating systems 👾, 2-d animation with processing 🎨, ai fundamentals 🤖, and observational astronomy with python 🌌 at university!
+- Pronouns: she/her 
+- Fun fact: I enjoy creating crochet tutorials on YouTube in my free time 🎬! Check out my page [here](https://www.youtube.com/@savannahfletcher)!
 
-Here are some ideas to get you started:
+## Contact me
+<a href="https://www.linkedin.com/in/savannah-fletcher-a56174251/">
+<img align="left" src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
+<a /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:sfletcher7772@gmail.com">
+<img src="https://user-images.githubusercontent.com/65576812/183569557-bc45c86d-c4d9-472d-b584-b025ffa7a39e.png" width="150px">
+<a />
