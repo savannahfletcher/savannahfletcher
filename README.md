@@ -3,9 +3,9 @@ Hello friends! I'm Savannah!
 ## <img align="left" src="/images/cherry_blossom.png" width="40px"> Get to know me!
 <img align="right" src="/images/savannahAvatar.png" width = "200px">
 
-- I am a third year undergraduate student pursuing a computer science major 💻, astronomy minor 💫, and ai certificate 🤖 at the university of florida!
+- I am a fourth year undergraduate student pursuing a computer science major 💻, astronomy minor 💫, and ai certificate 🤖 at the university of florida!
 - Strongest languages: C++ and TypeScript
-- I am currently learning operating systems 👾, 2-d animation with processing 🎨, ai fundamentals 🤖, and observational astronomy with python 🌌 at university!
+- I am currently learning algo abstraction & design 👾, natural language processing 🤖, engineering stats 📓, and special topics: neutron stars & black holes 🌌 at university!
 - Pronouns: she/her 
 - Fun fact: I enjoy creating crochet tutorials on YouTube in my free time 🎬! Check out my page [here](https://www.youtube.com/@savannahfletcher)!
 
